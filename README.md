@@ -6,7 +6,7 @@ This is how the S3 bucket, API Gateway, and the Lambda function are linked on AW
 
 
 
-The Website link: https://aws-weatherforecast2.s3-website-us-east-1.amazonaws.com/
+[The Website](https://aws-weatherforecast2.s3-website-us-east-1.amazonaws.com/). If the site doesn't load, please click on the site link in the About Section. Thanks!
 
 Example of a search on the website:
 Weather forecast of Tampa:
