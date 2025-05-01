@@ -5,7 +5,7 @@ This is how the S3 bucket, API Gateway, and the Lambda function are linked on AW
 ![image](https://github.com/VentingElm/WebsiteHosting-AWS/assets/105898424/f95de85f-1d1d-414e-8cd5-86c40a6ed5c4)
 
 
-$${\color{red}Red**_[The Website](https://aws-weatherforecast2.s3-website-us-east-1.amazonaws.com/)_**}$$
+$${\color{red}**_[The Website](https://aws-weatherforecast2.s3-website-us-east-1.amazonaws.com/)_**}$$
 
 If the site doesn't load, please click on the site link in the About Section. Thanks!
 
